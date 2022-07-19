@@ -29,6 +29,7 @@ main {
 
 .container {
     background-color: #ffffff;
+    background-image: url("/images/bg-pattern-desktop.svg");
     margin: 0 auto;
     width: 66%;
     border-radius: 30px;
@@ -40,6 +41,11 @@ main {
 
 .item {
     width: 50%;
+
+    img {
+        position: relative;
+        left: -50%;
+    }
 }
 
 @media (max-width: 375px) {
