@@ -5,13 +5,19 @@
 
 body {
   background-color: hsl(273deg, 75%, 66%);
+  color: hsl(238deg, 29%, 16%);
   font-family: "Kumbh Sans", sans-serif;
+  font-size: 12px;
+}
+
+main {
+  max-width: 1440px;
 }
 
 .container {
   background-color: #ffffff;
-  width: 1000px;
   margin: 0 auto;
+  width: 60%;
 }
 
 @media (max-width: 375px) {
