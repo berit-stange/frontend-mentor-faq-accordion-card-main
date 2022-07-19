@@ -5,7 +5,7 @@
 The designs were created to the following widths:
 
 - Mobile: 375px
-- Desktop: 1440px
+<!-- - Desktop: 1440px -->
 
 ## Colors
 
@@ -13,8 +13,8 @@ The designs were created to the following widths:
 
 #### Text
 
-- Very dark desaturated blue: hsl(238, 29%, 16%)
-- Soft red: hsl(14, 88%, 65%)
+<!-- - Very dark desaturated blue: hsl(238, 29%, 16%) -->
+<!-- - Soft red: hsl(14, 88%, 65%) -->
 
 #### Gradient
 
@@ -38,9 +38,9 @@ Background gradient:
 
 ### Body Copy
 
-- Font size: 12px
+<!-- - Font size: 12px -->
 
 ### Font
 
-- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
-- Weights: 400, 700
+<!-- - Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans) -->
+<!-- - Weights: 400, 700 -->
