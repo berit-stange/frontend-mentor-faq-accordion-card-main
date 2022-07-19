@@ -38,6 +38,10 @@ main {
   left: -50%;
 }
 
+.question {
+  border-bottom: 1px solid hsl(240deg, 5%, 91%);
+}
+
 @media (max-width: 375px) {
   .container {
     width: 300px;

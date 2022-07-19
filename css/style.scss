@@ -6,6 +6,7 @@ $font-reg: 400;
 $font-bold: 700;
 $text-dark: hsl(238, 29%, 16%);
 $text-red: hsl(14, 88%, 65%);
+$divider: hsl(240, 5%, 91%);
 
 * {
     box-sizing: border-box;
@@ -46,6 +47,10 @@ main {
         position: relative;
         left: -50%;
     }
+}
+
+.question {
+    border-bottom: 1px solid $divider;
 }
 
 @media (max-width: 375px) {
