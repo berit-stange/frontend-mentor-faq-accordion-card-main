@@ -1,0 +1,17 @@
+@import url("https://fonts.google.com/specimen/Kumbh+Sans");
+body {
+  background-color: hsl(273deg, 75%, 66%);
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.container {
+  background-color: #ffffff;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+@media (max-width: 375px) {
+  .container {
+    width: 300px;
+  }
+}/*# sourceMappingURL=style.css.map */
