@@ -1,7 +1,13 @@
-@import url("https://fonts.google.com/specimen/Kumbh+Sans");
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
 $sans-serif: "Kumbh Sans",
 sans-serif;
+$font-reg: 400;
+$font-bold: 700;
+
+* {
+    box-sizing: border-box;
+}
 
 body {
     background-color: hsl(273, 75%, 66%);
