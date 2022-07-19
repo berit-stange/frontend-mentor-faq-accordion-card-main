@@ -9,6 +9,8 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   font-size: 12px;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 main {
@@ -18,7 +20,16 @@ main {
 .container {
   background-color: #ffffff;
   margin: 0 auto;
-  width: 60%;
+  width: 66%;
+  border-radius: 30px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.item {
+  width: 50%;
 }
 
 @media (max-width: 375px) {
