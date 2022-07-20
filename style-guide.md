@@ -32,7 +32,7 @@ The designs were created to the following widths:
 
 #### Dividers
 
-- Light grayish blue: hsl(240, 5%, 91%)
+<!-- - Light grayish blue: hsl(240, 5%, 91%) -->
 
 ## Typography
 
