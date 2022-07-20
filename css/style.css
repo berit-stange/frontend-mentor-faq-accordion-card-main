@@ -22,6 +22,8 @@ main {
 .container {
   background-color: #ffffff;
   background-image: url("/images/bg-pattern-desktop.svg");
+  background-position: -580px -300px;
+  background-repeat: no-repeat;
   margin: 0 auto;
   height: 450px;
   width: 920px;
@@ -46,7 +48,7 @@ main {
 .item .illustration-2 {
   position: absolute;
   left: -14%;
-  top: 33%;
+  top: 37%;
 }
 
 .question {
