@@ -23,6 +23,7 @@ main {
   background-color: #ffffff;
   background-image: url("/images/bg-pattern-desktop.svg");
   margin: 0 auto;
+  height: 450px;
   width: 920px;
   border-radius: 30px;
   padding: 30px 30px 30px 0;
@@ -51,8 +52,35 @@ main {
 .question {
   border-bottom: 1px solid hsl(240deg, 5%, 91%);
 }
+.question p {
+  display: inline-block;
+}
+.question button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
 .question img {
   padding-left: 5px;
+}
+.question .hide-answer {
+  display: none;
+}
+.question .show-answer {
+  display: inline-block;
+}
+
+.attribution {
+  justify-self: end;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
 }
 
 @media (max-width: 375px) {
