@@ -21,7 +21,7 @@ main {
 
 .container {
   background-color: #ffffff;
-  background-image: url("/images/bg-pattern-desktop.svg");
+  background-image: url("images/bg-pattern-desktop.svg");
   background-position: -580px -300px;
   background-repeat: no-repeat;
   margin: 0 auto;
